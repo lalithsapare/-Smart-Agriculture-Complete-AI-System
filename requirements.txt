@@ -1,0 +1,12 @@
+streamlit>=1.36.0
+pandas>=2.2.0
+numpy>=2.0.0
+# Add other deps like scikit-learn, tensorflow, etc., without pins or with compatible versions
+# Example full list for agritech app:
+# streamlit>=1.36.0
+# pandas>=2.2.0
+# numpy>=2.0.0
+# scikit-learn>=1.5.0
+# tensorflow>=2.16.0
+# pillow
+# plotly
