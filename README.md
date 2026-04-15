@@ -1,4 +1,4 @@
-
+Smart Agriculture decision System
 # About the Project : 
 Smart Agriculture System ML is a machine learning-based agriculture decision support project designed to help farmers make better planning choices using farm and weather data.
 
