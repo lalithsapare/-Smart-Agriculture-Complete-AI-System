@@ -1,10 +1,10 @@
-Smart-Agriculture-Complete-AI-System
-About the Project : 
+
+# About the Project : 
 Smart Agriculture System ML is a machine learning-based agriculture decision support project designed to help farmers make better planning choices using farm and weather data.
 
 The project includes multiple ML modules that work together to support crop planning, irrigation management, and fertilizer guidance. It focuses on practical farming problems and provides predictions that can improve productivity and reduce risk.
 
-Modules Included :
+# Modules Included :
 # Crop Recommendation:  
 Suggests the most suitable crop based on soil and environmental conditions.
 Helps farmers choose crops that match the available land and climate.
@@ -27,7 +27,7 @@ Helps avoid overwatering and underwatering.
 Recommends the proper fertilizer based on soil nutrient values and crop requirements.
 Supports healthy crop growth and better soil management.
 
-Project Goal: 
+# Project Goal: 
 The main goal of this project is to build an intelligent agriculture system that can:
 Recommend the right crop.
 Predict crop yield.
